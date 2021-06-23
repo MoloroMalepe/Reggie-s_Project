@@ -25,14 +25,12 @@
 </div>
     
     <br>
-    <button type="Login">Login</button>
+    <label>
+            Forgot password?
+        </label> <button type="Login">Login</button>
     </form>
     </div>
 
-    <div>
-        <label>
-            Forgot password?
-        </label> 
-    </div>
+    
  method </body>
 </html>
